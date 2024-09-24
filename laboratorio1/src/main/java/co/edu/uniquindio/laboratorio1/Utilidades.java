@@ -3,6 +3,12 @@ package co.edu.uniquindio.laboratorio1;
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.io.ObjectOutputStream;
+import java.io.ObjectInputStream;
+import java.io.FileOutputStream;
+import java.io.FileInputStream;
+import java.beans.XMLEncoder;
+import java.beans.XMLDecoder;
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.ResourceBundle;
@@ -26,12 +32,16 @@ public class Utilidades {
     
     private Utilidades(){}
 
+    //Obtener instancia utilidades
+
     public static Utilidades getInstancia(){
         if(instancia == null){
             instancia = new Utilidades();
         }
         return instancia;
     }
+
+    //Métodos para los ResourceBundles
 
     public void EstablecerRutaBundle(String ruta){
         bundle = ResourceBundle.getBundle(ruta, App.getIdioma());
@@ -41,6 +51,8 @@ public class Utilidades {
         return bundle.getString(key);
     }
 
+    //Método para escribir logs
+
     @SuppressWarnings("exports")
     public void escribirLog(Level level, String mensaje) throws IOException{
         FileHandler archivo = null;
@@ -48,6 +60,8 @@ public class Utilidades {
         LOGGER.addHandler(archivo);
         LOGGER.log(level, mensaje);
     }
+
+    //Métodos de manejo de txt
 
     public void imprimirPersonas(LinkedList<Persona> personas) throws IOException{
         BufferedWriter bufferPersonas = new BufferedWriter(new FileWriter("personas.txt"));
@@ -143,4 +157,48 @@ public class Utilidades {
         }
         return esMiembro; 
     } 
+
+    //Métodos para serializar
+
+    public void serializarObjetoDat(String nombre, Object objeto) throws IOException {
+
+        ObjectOutputStream salida = new ObjectOutputStream(new FileOutputStream(nombre));
+        salida.writeObject(objeto);
+        salida.close();
+
+    }
+
+    public void serializarObjetoXML(String nombre, Object objeto) throws IOException {
+
+        XMLEncoder codificador = new XMLEncoder(new FileOutputStream(nombre));
+        codificador.writeObject(objeto);
+        codificador.close();
+
+    }
+
+    //Métodos para deserializar
+
+    public Object deserializarObjetoDat(String nombre) throws Exception {
+
+        Object objeto;
+
+        ObjectInputStream entrada = new ObjectInputStream(new FileInputStream(nombre));
+        objeto = entrada.readObject();
+        entrada.close();
+
+        return objeto;
+
+    }
+
+    public Object deserializarObjetoXML(String nombre) throws IOException {
+
+        Object objeto;
+
+        XMLDecoder decodificador = new XMLDecoder(new FileInputStream(nombre));
+        objeto = decodificador.readObject();
+        decodificador.close();
+
+        return objeto;
+    }
+
 }

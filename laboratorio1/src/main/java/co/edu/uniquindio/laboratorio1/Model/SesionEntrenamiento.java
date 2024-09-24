@@ -1,11 +1,12 @@
 package co.edu.uniquindio.laboratorio1.Model;
 
-
 import java.time.Duration;
 import java.time.LocalDateTime;
 import java.util.LinkedList;
 
-public class SesionEntrenamiento {
+import java.io.Serializable;
+
+public class SesionEntrenamiento implements Serializable{
 
     private String codigo;
     private LocalDateTime fechaYHora;

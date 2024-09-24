@@ -2,7 +2,12 @@ package co.edu.uniquindio.laboratorio1.Model;
 
 import java.util.LinkedList;
 
-public class Deporte {
+import java.io.Serializable;
+
+public class Deporte implements Serializable{
+
+    //Atributo de versión de serialización en XML
+    private static final long serialVersionUID = 1L;
 
     private String nombre;
     private String descripcion;

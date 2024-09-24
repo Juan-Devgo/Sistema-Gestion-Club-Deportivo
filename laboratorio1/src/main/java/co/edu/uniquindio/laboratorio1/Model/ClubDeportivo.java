@@ -4,7 +4,12 @@ import java.util.LinkedList;
 import java.util.Optional;
 import java.util.function.Predicate;
 
-public class ClubDeportivo implements GestionGeneral{
+import java.io.Serializable;
+
+public class ClubDeportivo implements GestionGeneral, Serializable{
+
+    //Atributo de versión de serialización en XML
+    private static final long serialVersionUID = 1L;
     
     private String nombre;
     private Administrador administrador;
