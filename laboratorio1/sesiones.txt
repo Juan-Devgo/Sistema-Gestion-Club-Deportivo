@@ -1,0 +1,16 @@
+Fecha y Hora: 2024-09-19T06:00
+Entrenador: hello. Identificación: 768678
+Duración: PT2H
+Deporte: q. Descripción: gsg
+Miembros: juan. Identificacion: 3333
+amyi1. Identificacion: 12223
+amyi2. Identificacion: 464645
+
+Fecha y Hora: 2024-09-19T03:00
+Entrenador: hello. Identificación: 768678
+Duración: PT2H
+Deporte: q. Descripción: gsg
+Miembros: juan. Identificacion: 3333
+amyi1. Identificacion: 12223
+amyi2. Identificacion: 464645
+
