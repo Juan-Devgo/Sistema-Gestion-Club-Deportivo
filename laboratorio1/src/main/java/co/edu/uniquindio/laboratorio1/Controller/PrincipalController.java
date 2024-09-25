@@ -94,7 +94,19 @@ public class PrincipalController {
 
     @FXML
     private Tab generarListastab;
-    
+
+    @FXML
+    private Tab serializartab;
+
+    @FXML
+    private Button serializarListaEntrenadoresbt;
+
+    @FXML
+    private Button serializarListaMiembrosbt;
+
+    @FXML
+    private Button serializarListaSesionesbt;
+
     @FXML
     void cambiarLogin(ActionEvent event) throws IOException {
         Utilidades.getInstancia().escribirLog(Level.INFO, "Volviendo a login...");
@@ -139,6 +151,7 @@ public class PrincipalController {
         asignaciontab.setText(Utilidades.getInstancia().mostrarMensajeBundle("asignaciontab"));
         generarListastab.setText(Utilidades.getInstancia().mostrarMensajeBundle("generarListastab"));
         consultatab.setText(Utilidades.getInstancia().mostrarMensajeBundle("consultatab"));
+        serializartab.setText(Utilidades.getInstancia().mostrarMensajeBundle("serializartab"));
         registrardeportebt.setText(Utilidades.getInstancia().mostrarMensajeBundle("registrarDeportebt"));
         registrarmiembrobt.setText(Utilidades.getInstancia().mostrarMensajeBundle("registrarMiembrobt"));
         registrarentrenadorbt.setText(Utilidades.getInstancia().mostrarMensajeBundle("registrarEntrenadorbt"));
@@ -157,7 +170,11 @@ public class PrincipalController {
         volverbt.setText(Utilidades.getInstancia().mostrarMensajeBundle("volverbt"));
         aceptarmiembrobt.setText(Utilidades.getInstancia().mostrarMensajeBundle("aceptarbt"));
         aceptarentrenadorbt.setText(Utilidades.getInstancia().mostrarMensajeBundle("aceptarbt"));
+        serializarListaEntrenadoresbt.setText(Utilidades.getInstancia().mostrarMensajeBundle("serializarListaEntrenadoresbt"));
+        serializarListaMiembrosbt.setText(Utilidades.getInstancia().mostrarMensajeBundle("serializarListaMiembrosbt"));
+        serializarListaSesionesbt.setText(Utilidades.getInstancia().mostrarMensajeBundle("serializarListaSesionesbt"));
         Utilidades.getInstancia().escribirLog(Level.INFO, "PrincipalController inicializado");
+
     }
 
     @FXML
@@ -317,5 +334,21 @@ public class PrincipalController {
 
         JOptionPane.showMessageDialog(null, Utilidades.getInstancia().mostrarMensajeBundle("MensajeListaSesionesImpresa"));
         Utilidades.getInstancia().escribirLog(Level.INFO, "Lista de sesiones impresa");
+    }
+
+    @FXML
+    void SerializarListaMiembros(ActionEvent event) {
+        
+    }
+
+
+    @FXML
+    void SerializarListaPersonas(ActionEvent event) {
+
+    }
+
+    @FXML
+    void SerializarListaSesiones(ActionEvent event) {
+
     }
 }
