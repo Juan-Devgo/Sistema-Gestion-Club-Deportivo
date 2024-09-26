@@ -1,0 +1,10 @@
+Administrador: 
+a, ID: 1
+
+Miembros: 
+a, Correo: a, ID: 1, Tipo miembro: ADULTO
+a2, Correo: a, ID: 3, Tipo miembro: ADULTO
+
+Entrenadores: 
+j, ID: 2, Especialidad: q
+

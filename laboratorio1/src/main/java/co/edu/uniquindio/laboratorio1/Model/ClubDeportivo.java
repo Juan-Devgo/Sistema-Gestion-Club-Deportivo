@@ -27,6 +27,8 @@ public class ClubDeportivo implements GestionGeneral, Serializable{
         this.sesionesEntrenamiento = new LinkedList<>();
     }
 
+    public ClubDeportivo(){}
+
     //Métodos de agregar.
     public void agregarDeporte(Deporte deporte){
         deportes.add(deporte);

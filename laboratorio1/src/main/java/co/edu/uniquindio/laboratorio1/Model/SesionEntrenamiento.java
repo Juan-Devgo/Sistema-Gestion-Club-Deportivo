@@ -30,6 +30,8 @@ public class SesionEntrenamiento implements Serializable{
 
     }
 
+    public SesionEntrenamiento(){}
+
     public void asignarMiembro(Miembro miembro){
         assert miembro != null;
         miembros.add(miembro);

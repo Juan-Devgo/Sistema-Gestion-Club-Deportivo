@@ -1,0 +1,2155 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-09-26T01:29:55.612973300Z</date>
+  <millis>1727314195612</millis>
+  <nanos>973300</nanos>
+  <sequence>1</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Inicializando LoginController...</message>
+</record>
+<record>
+  <date>2024-09-26T01:29:55.623557700Z</date>
+  <millis>1727314195623</millis>
+  <nanos>557700</nanos>
+  <sequence>2</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>LoginController inicializado</message>
+</record>
+<record>
+  <date>2024-09-26T01:30:01.529446300Z</date>
+  <millis>1727314201529</millis>
+  <nanos>446300</nanos>
+  <sequence>3</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Administrador creado</message>
+</record>
+<record>
+  <date>2024-09-26T01:30:01.542561300Z</date>
+  <millis>1727314201542</millis>
+  <nanos>561300</nanos>
+  <sequence>4</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Idioma cambiado a Español Colombia</message>
+</record>
+<record>
+  <date>2024-09-26T01:30:01.550228900Z</date>
+  <millis>1727314201550</millis>
+  <nanos>228900</nanos>
+  <sequence>5</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Cambiando a principal...</message>
+</record>
+<record>
+  <date>2024-09-26T01:30:01.728827500Z</date>
+  <millis>1727314201728</millis>
+  <nanos>827500</nanos>
+  <sequence>7</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Inicializando PrincipalController...</message>
+</record>
+<record>
+  <date>2024-09-26T01:30:01.745472500Z</date>
+  <millis>1727314201745</millis>
+  <nanos>472500</nanos>
+  <sequence>8</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>PrincipalController inicializado</message>
+</record>
+<record>
+  <date>2024-09-26T01:30:01.782545Z</date>
+  <millis>1727314201782</millis>
+  <nanos>545000</nanos>
+  <sequence>9</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Escena cambiada a principal</message>
+</record>
+<record>
+  <date>2024-09-26T01:30:03.144174900Z</date>
+  <millis>1727314203144</millis>
+  <nanos>174900</nanos>
+  <sequence>10</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Cambiando a AgregarDeporte</message>
+</record>
+<record>
+  <date>2024-09-26T01:30:03.177434800Z</date>
+  <millis>1727314203177</millis>
+  <nanos>434800</nanos>
+  <sequence>12</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Inicializando DeporteController...</message>
+</record>
+<record>
+  <date>2024-09-26T01:30:03.184437300Z</date>
+  <millis>1727314203184</millis>
+  <nanos>437300</nanos>
+  <sequence>13</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>DeporteController inicializado</message>
+</record>
+<record>
+  <date>2024-09-26T01:30:03.199575400Z</date>
+  <millis>1727314203199</millis>
+  <nanos>575400</nanos>
+  <sequence>14</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Escena cambiada a AgregarDeporte</message>
+</record>
+<record>
+  <date>2024-09-26T01:30:09.744049900Z</date>
+  <millis>1727314209744</millis>
+  <nanos>49900</nanos>
+  <sequence>15</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Deporte registrado</message>
+</record>
+<record>
+  <date>2024-09-26T01:30:10.672953400Z</date>
+  <millis>1727314210672</millis>
+  <nanos>953400</nanos>
+  <sequence>16</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Volviendo a principal...</message>
+</record>
+<record>
+  <date>2024-09-26T01:30:10.722610200Z</date>
+  <millis>1727314210722</millis>
+  <nanos>610200</nanos>
+  <sequence>18</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Inicializando PrincipalController...</message>
+</record>
+<record>
+  <date>2024-09-26T01:30:10.729555Z</date>
+  <millis>1727314210729</millis>
+  <nanos>555000</nanos>
+  <sequence>19</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>PrincipalController inicializado</message>
+</record>
+<record>
+  <date>2024-09-26T01:30:10.737550900Z</date>
+  <millis>1727314210737</millis>
+  <nanos>550900</nanos>
+  <sequence>20</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Escena cambiada a principal</message>
+</record>
+<record>
+  <date>2024-09-26T01:30:12.306065900Z</date>
+  <millis>1727314212306</millis>
+  <nanos>65900</nanos>
+  <sequence>21</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Cambiando a AgregarMiembro</message>
+</record>
+<record>
+  <date>2024-09-26T01:30:12.343020600Z</date>
+  <millis>1727314212343</millis>
+  <nanos>20600</nanos>
+  <sequence>23</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Inicializando AgregarMiembroController...</message>
+</record>
+<record>
+  <date>2024-09-26T01:30:12.353307800Z</date>
+  <millis>1727314212353</millis>
+  <nanos>307800</nanos>
+  <sequence>24</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>AgregarMiembroController inicializado</message>
+</record>
+<record>
+  <date>2024-09-26T01:30:12.360297900Z</date>
+  <millis>1727314212360</millis>
+  <nanos>297900</nanos>
+  <sequence>25</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Escena cambiada a AgregarMiembro</message>
+</record>
+<record>
+  <date>2024-09-26T01:30:44.959949200Z</date>
+  <millis>1727314244959</millis>
+  <nanos>949200</nanos>
+  <sequence>26</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Miembro registrado</message>
+</record>
+<record>
+  <date>2024-09-26T01:30:49.377421100Z</date>
+  <millis>1727314249377</millis>
+  <nanos>421100</nanos>
+  <sequence>27</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Volviendo a principal...</message>
+</record>
+<record>
+  <date>2024-09-26T01:30:49.412141200Z</date>
+  <millis>1727314249412</millis>
+  <nanos>141200</nanos>
+  <sequence>29</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Inicializando PrincipalController...</message>
+</record>
+<record>
+  <date>2024-09-26T01:30:49.419622700Z</date>
+  <millis>1727314249419</millis>
+  <nanos>622700</nanos>
+  <sequence>30</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>PrincipalController inicializado</message>
+</record>
+<record>
+  <date>2024-09-26T01:30:49.429300Z</date>
+  <millis>1727314249429</millis>
+  <nanos>300000</nanos>
+  <sequence>31</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Escena cambiada a principal</message>
+</record>
+<record>
+  <date>2024-09-26T01:30:54.334787900Z</date>
+  <millis>1727314254334</millis>
+  <nanos>787900</nanos>
+  <sequence>32</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Cambiando a AgregarMiembro</message>
+</record>
+<record>
+  <date>2024-09-26T01:30:54.362862900Z</date>
+  <millis>1727314254362</millis>
+  <nanos>862900</nanos>
+  <sequence>34</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Inicializando AgregarMiembroController...</message>
+</record>
+<record>
+  <date>2024-09-26T01:30:54.376819900Z</date>
+  <millis>1727314254376</millis>
+  <nanos>819900</nanos>
+  <sequence>35</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>AgregarMiembroController inicializado</message>
+</record>
+<record>
+  <date>2024-09-26T01:30:54.387263Z</date>
+  <millis>1727314254387</millis>
+  <nanos>263000</nanos>
+  <sequence>36</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Escena cambiada a AgregarMiembro</message>
+</record>
+<record>
+  <date>2024-09-26T01:31:03.508293900Z</date>
+  <millis>1727314263508</millis>
+  <nanos>293900</nanos>
+  <sequence>37</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Miembro registrado</message>
+</record>
+<record>
+  <date>2024-09-26T01:31:04.310020700Z</date>
+  <millis>1727314264310</millis>
+  <nanos>20700</nanos>
+  <sequence>38</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Volviendo a principal...</message>
+</record>
+<record>
+  <date>2024-09-26T01:31:04.347503900Z</date>
+  <millis>1727314264347</millis>
+  <nanos>503900</nanos>
+  <sequence>40</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Inicializando PrincipalController...</message>
+</record>
+<record>
+  <date>2024-09-26T01:31:04.352503800Z</date>
+  <millis>1727314264352</millis>
+  <nanos>503800</nanos>
+  <sequence>41</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>PrincipalController inicializado</message>
+</record>
+<record>
+  <date>2024-09-26T01:31:04.360464600Z</date>
+  <millis>1727314264360</millis>
+  <nanos>464600</nanos>
+  <sequence>42</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Escena cambiada a principal</message>
+</record>
+<record>
+  <date>2024-09-26T01:31:05.574604300Z</date>
+  <millis>1727314265574</millis>
+  <nanos>604300</nanos>
+  <sequence>43</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Cambiando a AgregarEntrenador</message>
+</record>
+<record>
+  <date>2024-09-26T01:31:05.594130200Z</date>
+  <millis>1727314265594</millis>
+  <nanos>130200</nanos>
+  <sequence>45</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Inicializanco AgregarEntrenadorController...</message>
+</record>
+<record>
+  <date>2024-09-26T01:31:05.601510200Z</date>
+  <millis>1727314265601</millis>
+  <nanos>510200</nanos>
+  <sequence>46</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>AgregarEntrenadorController inicializado</message>
+</record>
+<record>
+  <date>2024-09-26T01:31:05.608800400Z</date>
+  <millis>1727314265608</millis>
+  <nanos>800400</nanos>
+  <sequence>47</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Escena cambiada a AgregarEntrenador</message>
+</record>
+<record>
+  <date>2024-09-26T01:31:10.257096400Z</date>
+  <millis>1727314270257</millis>
+  <nanos>96400</nanos>
+  <sequence>48</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Entrenador registrado</message>
+</record>
+<record>
+  <date>2024-09-26T01:31:10.678946500Z</date>
+  <millis>1727314270678</millis>
+  <nanos>946500</nanos>
+  <sequence>49</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Volviendo a principal...</message>
+</record>
+<record>
+  <date>2024-09-26T01:31:10.716357Z</date>
+  <millis>1727314270716</millis>
+  <nanos>357000</nanos>
+  <sequence>51</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Inicializando PrincipalController...</message>
+</record>
+<record>
+  <date>2024-09-26T01:31:10.721329700Z</date>
+  <millis>1727314270721</millis>
+  <nanos>329700</nanos>
+  <sequence>52</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>PrincipalController inicializado</message>
+</record>
+<record>
+  <date>2024-09-26T01:31:10.725933500Z</date>
+  <millis>1727314270725</millis>
+  <nanos>933500</nanos>
+  <sequence>53</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Escena cambiada a principal</message>
+</record>
+<record>
+  <date>2024-09-26T01:31:11.562506300Z</date>
+  <millis>1727314271562</millis>
+  <nanos>506300</nanos>
+  <sequence>54</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Cambiando a ProgramarSesionEntrenamiento</message>
+</record>
+<record>
+  <date>2024-09-26T01:31:11.600131Z</date>
+  <millis>1727314271600</millis>
+  <nanos>131000</nanos>
+  <sequence>56</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Inicializando ProgramarSesionEntrenamientoController...</message>
+</record>
+<record>
+  <date>2024-09-26T01:31:11.609264400Z</date>
+  <millis>1727314271609</millis>
+  <nanos>264400</nanos>
+  <sequence>57</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>ProgramarSesionEntrenamientoController Inicializado</message>
+</record>
+<record>
+  <date>2024-09-26T01:31:11.622350800Z</date>
+  <millis>1727314271622</millis>
+  <nanos>350800</nanos>
+  <sequence>58</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Escena cambiada a ProgramarSesionEntrenamiento</message>
+</record>
+<record>
+  <date>2024-09-26T01:31:29.513932200Z</date>
+  <millis>1727314289513</millis>
+  <nanos>932200</nanos>
+  <sequence>59</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Sesión registrada</message>
+</record>
+<record>
+  <date>2024-09-26T01:31:30.241346300Z</date>
+  <millis>1727314290241</millis>
+  <nanos>346300</nanos>
+  <sequence>60</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Volviendo a principal...</message>
+</record>
+<record>
+  <date>2024-09-26T01:31:30.265416Z</date>
+  <millis>1727314290265</millis>
+  <nanos>416000</nanos>
+  <sequence>62</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Inicializando PrincipalController...</message>
+</record>
+<record>
+  <date>2024-09-26T01:31:30.271808900Z</date>
+  <millis>1727314290271</millis>
+  <nanos>808900</nanos>
+  <sequence>63</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>PrincipalController inicializado</message>
+</record>
+<record>
+  <date>2024-09-26T01:31:30.280565900Z</date>
+  <millis>1727314290280</millis>
+  <nanos>565900</nanos>
+  <sequence>64</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Escena cambiada a principal</message>
+</record>
+<record>
+  <date>2024-09-26T01:31:37.464436800Z</date>
+  <millis>1727314297464</millis>
+  <nanos>436800</nanos>
+  <sequence>65</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Miembro asignado a sesión</message>
+</record>
+<record>
+  <date>2024-09-26T01:31:42.698994500Z</date>
+  <millis>1727314302698</millis>
+  <nanos>994500</nanos>
+  <sequence>66</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Miembro asignado a sesión</message>
+</record>
+<record>
+  <date>2024-09-26T01:31:49.375587600Z</date>
+  <millis>1727314309375</millis>
+  <nanos>587600</nanos>
+  <sequence>67</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Entrenador asignado a deporte</message>
+</record>
+<record>
+  <date>2024-09-26T01:31:54.107624200Z</date>
+  <millis>1727314314107</millis>
+  <nanos>624200</nanos>
+  <sequence>68</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Estado de sesión consultado</message>
+</record>
+<record>
+  <date>2024-09-26T01:32:03.863824300Z</date>
+  <millis>1727314323863</millis>
+  <nanos>824300</nanos>
+  <sequence>69</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Lista de personas impresa</message>
+</record>
+<record>
+  <date>2024-09-26T01:32:22.822239800Z</date>
+  <millis>1727314342822</millis>
+  <nanos>239800</nanos>
+  <sequence>70</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Lista de sesiones impresa</message>
+</record>
+<record>
+  <date>2024-09-26T01:32:34.110899200Z</date>
+  <millis>1727314354110</millis>
+  <nanos>899200</nanos>
+  <sequence>71</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Miembros serializados a Dat</message>
+</record>
+<record>
+  <date>2024-09-26T01:32:35.620828500Z</date>
+  <millis>1727314355620</millis>
+  <nanos>828500</nanos>
+  <sequence>72</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Miembros serializadas a Dat impresas</message>
+</record>
+<record>
+  <date>2024-09-26T01:32:47.215533600Z</date>
+  <millis>1727314367215</millis>
+  <nanos>533600</nanos>
+  <sequence>73</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Personas serializadas a Dat</message>
+</record>
+<record>
+  <date>2024-09-26T01:32:48.586256500Z</date>
+  <millis>1727314368586</millis>
+  <nanos>256500</nanos>
+  <sequence>74</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Personas serializadas a Dat impresas</message>
+</record>
+<record>
+  <date>2024-09-26T01:32:57.500853800Z</date>
+  <millis>1727314377500</millis>
+  <nanos>853800</nanos>
+  <sequence>75</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Sesiones serializadas a Dat</message>
+</record>
+<record>
+  <date>2024-09-26T01:32:59.156077300Z</date>
+  <millis>1727314379156</millis>
+  <nanos>77300</nanos>
+  <sequence>76</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Sesiones serializadas a Dat impresas</message>
+</record>
+<record>
+  <date>2024-09-26T01:33:09.954366500Z</date>
+  <millis>1727314389954</millis>
+  <nanos>366500</nanos>
+  <sequence>77</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Miembros serializados a XML</message>
+</record>
+<record>
+  <date>2024-09-26T01:33:11.454370500Z</date>
+  <millis>1727314391454</millis>
+  <nanos>370500</nanos>
+  <sequence>78</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Miembros serializados a XML impresos</message>
+</record>
+<record>
+  <date>2024-09-26T01:33:14.795179200Z</date>
+  <millis>1727314394795</millis>
+  <nanos>179200</nanos>
+  <sequence>79</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Personas serializadas a XML</message>
+</record>
+<record>
+  <date>2024-09-26T01:33:18.374106900Z</date>
+  <millis>1727314398374</millis>
+  <nanos>106900</nanos>
+  <sequence>80</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>SEVERE</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Error al intentar serializar las personas a XML</message>
+</record>
+<record>
+  <date>2024-09-26T01:33:21.155163800Z</date>
+  <millis>1727314401155</millis>
+  <nanos>163800</nanos>
+  <sequence>81</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>INFO</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Sesiones serializadas a XML</message>
+</record>
+<record>
+  <date>2024-09-26T01:33:25.826923700Z</date>
+  <millis>1727314405826</millis>
+  <nanos>923700</nanos>
+  <sequence>82</sequence>
+  <logger>co.edu.uniquindio.laboratorio1.Utilidades</logger>
+  <level>SEVERE</level>
+  <class>co.edu.uniquindio.laboratorio1.Utilidades</class>
+  <method>escribirLog</method>
+  <thread>18</thread>
+  <message>Error al intentar serializar las sesiones a XML</message>
+</record>
+sep. 25, 2024 8:34:40 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando LoginController...
+sep. 25, 2024 8:34:40 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: LoginController inicializado
+sep. 25, 2024 8:36:34 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando LoginController...
+sep. 25, 2024 8:36:34 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: LoginController inicializado
+sep. 25, 2024 8:36:50 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+ADVERTENCIA: Error datos nulos
+sep. 25, 2024 8:36:54 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Administrador creado
+sep. 25, 2024 8:36:54 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Idioma cambiado a inglés Estados Unidos
+sep. 25, 2024 8:36:54 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a principal...
+sep. 25, 2024 8:36:55 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 8:36:55 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 8:36:55 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 8:37:18 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando LoginController...
+sep. 25, 2024 8:37:18 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: LoginController inicializado
+sep. 25, 2024 8:37:24 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Administrador creado
+sep. 25, 2024 8:37:24 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Idioma cambiado a Español Colombia
+sep. 25, 2024 8:37:24 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a principal...
+sep. 25, 2024 8:37:24 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 8:37:24 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 8:37:24 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 8:38:02 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a AgregarDeporte
+sep. 25, 2024 8:38:02 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando DeporteController...
+sep. 25, 2024 8:38:02 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: DeporteController inicializado
+sep. 25, 2024 8:38:02 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a AgregarDeporte
+sep. 25, 2024 8:38:18 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Deporte registrado
+sep. 25, 2024 8:38:19 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Volviendo a principal...
+sep. 25, 2024 8:38:19 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 8:38:19 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 8:38:19 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 8:38:20 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a AgregarMiembro
+sep. 25, 2024 8:38:20 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando AgregarMiembroController...
+sep. 25, 2024 8:38:20 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: AgregarMiembroController inicializado
+sep. 25, 2024 8:38:20 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a AgregarMiembro
+sep. 25, 2024 8:38:29 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembro registrado
+sep. 25, 2024 8:38:30 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Volviendo a principal...
+sep. 25, 2024 8:38:30 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 8:38:30 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 8:38:30 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 8:38:31 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a AgregarMiembro
+sep. 25, 2024 8:38:31 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando AgregarMiembroController...
+sep. 25, 2024 8:38:31 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: AgregarMiembroController inicializado
+sep. 25, 2024 8:38:31 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a AgregarMiembro
+sep. 25, 2024 8:38:46 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembro registrado
+sep. 25, 2024 8:38:47 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Volviendo a principal...
+sep. 25, 2024 8:38:47 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 8:38:47 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 8:38:47 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 8:38:48 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a AgregarEntrenador
+sep. 25, 2024 8:38:48 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializanco AgregarEntrenadorController...
+sep. 25, 2024 8:38:48 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: AgregarEntrenadorController inicializado
+sep. 25, 2024 8:38:48 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a AgregarEntrenador
+sep. 25, 2024 8:38:54 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Entrenador registrado
+sep. 25, 2024 8:38:55 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Volviendo a principal...
+sep. 25, 2024 8:38:55 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 8:38:55 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 8:38:55 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 8:38:55 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a ProgramarSesionEntrenamiento
+sep. 25, 2024 8:38:55 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando ProgramarSesionEntrenamientoController...
+sep. 25, 2024 8:38:56 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: ProgramarSesionEntrenamientoController Inicializado
+sep. 25, 2024 8:38:56 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a ProgramarSesionEntrenamiento
+sep. 25, 2024 8:39:18 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Sesión registrada
+sep. 25, 2024 8:39:19 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Volviendo a principal...
+sep. 25, 2024 8:39:19 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 8:39:19 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 8:39:19 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 8:39:20 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a ProgramarSesionEntrenamiento
+sep. 25, 2024 8:39:20 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando ProgramarSesionEntrenamientoController...
+sep. 25, 2024 8:39:20 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: ProgramarSesionEntrenamientoController Inicializado
+sep. 25, 2024 8:39:20 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a ProgramarSesionEntrenamiento
+sep. 25, 2024 8:39:26 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Volviendo a principal...
+sep. 25, 2024 8:39:26 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 8:39:26 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 8:39:26 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 8:39:34 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembro asignado a sesión
+sep. 25, 2024 8:39:41 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembro asignado a sesión
+sep. 25, 2024 8:39:47 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Entrenador asignado a deporte
+sep. 25, 2024 8:39:50 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Estado de sesión consultado
+sep. 25, 2024 8:39:54 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Lista de personas impresa
+sep. 25, 2024 8:39:57 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Lista de sesiones impresa
+sep. 25, 2024 8:40:09 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembros serializados a Dat
+sep. 25, 2024 8:40:11 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembros serializadas a Dat impresas
+sep. 25, 2024 8:40:19 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Personas serializadas a Dat
+sep. 25, 2024 8:40:19 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Personas serializadas a Dat impresas
+sep. 25, 2024 8:40:22 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Sesiones serializadas a Dat
+sep. 25, 2024 8:40:23 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Sesiones serializadas a Dat impresas
+sep. 25, 2024 8:40:28 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembros serializados a XML
+sep. 25, 2024 8:40:31 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembros serializados a XML impresos
+sep. 25, 2024 8:40:42 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Personas serializadas a XML
+sep. 25, 2024 8:40:51 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+GRAVE: Error al intentar serializar las personas a XML
+sep. 25, 2024 8:40:53 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Sesiones serializadas a XML
+sep. 25, 2024 8:41:04 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+GRAVE: Error al intentar serializar las sesiones a XML
+sep. 25, 2024 8:44:08 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando LoginController...
+sep. 25, 2024 8:44:08 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: LoginController inicializado
+sep. 25, 2024 8:44:14 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Administrador creado
+sep. 25, 2024 8:44:14 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Idioma cambiado a inglés Estados Unidos
+sep. 25, 2024 8:44:14 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a principal...
+sep. 25, 2024 8:44:14 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 8:44:15 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 8:44:15 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 8:44:17 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a AgregarDeporte
+sep. 25, 2024 8:44:17 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando DeporteController...
+sep. 25, 2024 8:44:17 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: DeporteController inicializado
+sep. 25, 2024 8:44:17 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a AgregarDeporte
+sep. 25, 2024 8:44:23 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Deporte registrado
+sep. 25, 2024 8:44:24 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Volviendo a principal...
+sep. 25, 2024 8:44:24 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 8:44:24 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 8:44:24 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 8:44:25 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a AgregarMiembro
+sep. 25, 2024 8:44:25 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando AgregarMiembroController...
+sep. 25, 2024 8:44:25 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: AgregarMiembroController inicializado
+sep. 25, 2024 8:44:25 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a AgregarMiembro
+sep. 25, 2024 8:44:34 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembro registrado
+sep. 25, 2024 8:44:34 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Volviendo a principal...
+sep. 25, 2024 8:44:35 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 8:44:35 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 8:44:35 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 8:44:35 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a AgregarMiembro
+sep. 25, 2024 8:44:35 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando AgregarMiembroController...
+sep. 25, 2024 8:44:35 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: AgregarMiembroController inicializado
+sep. 25, 2024 8:44:35 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a AgregarMiembro
+sep. 25, 2024 8:44:47 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembro registrado
+sep. 25, 2024 8:44:47 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Volviendo a principal...
+sep. 25, 2024 8:44:47 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 8:44:47 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 8:44:47 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 8:44:48 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a AgregarEntrenador
+sep. 25, 2024 8:44:48 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializanco AgregarEntrenadorController...
+sep. 25, 2024 8:44:48 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: AgregarEntrenadorController inicializado
+sep. 25, 2024 8:44:48 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a AgregarEntrenador
+sep. 25, 2024 8:44:53 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Entrenador registrado
+sep. 25, 2024 8:44:53 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Volviendo a principal...
+sep. 25, 2024 8:45:25 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando LoginController...
+sep. 25, 2024 8:45:25 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: LoginController inicializado
+sep. 25, 2024 8:45:31 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Administrador creado
+sep. 25, 2024 8:45:31 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Idioma cambiado a inglés Estados Unidos
+sep. 25, 2024 8:45:31 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a principal...
+sep. 25, 2024 8:45:31 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 8:45:31 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 8:45:31 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 8:46:29 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando LoginController...
+sep. 25, 2024 8:46:29 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: LoginController inicializado
+sep. 25, 2024 8:46:37 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Administrador creado
+sep. 25, 2024 8:46:37 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Idioma cambiado a Español Colombia
+sep. 25, 2024 8:46:37 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a principal...
+sep. 25, 2024 8:46:37 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 8:46:37 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 8:46:37 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 8:48:56 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando LoginController...
+sep. 25, 2024 8:48:56 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: LoginController inicializado
+sep. 25, 2024 8:49:02 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Administrador creado
+sep. 25, 2024 8:49:02 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Idioma cambiado a Español Colombia
+sep. 25, 2024 8:49:02 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a principal...
+sep. 25, 2024 8:49:02 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 8:49:02 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 8:49:02 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 8:49:04 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a AgregarEntrenador
+sep. 25, 2024 8:49:04 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializanco AgregarEntrenadorController...
+sep. 25, 2024 8:49:04 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: AgregarEntrenadorController inicializado
+sep. 25, 2024 8:49:04 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a AgregarEntrenador
+sep. 25, 2024 8:49:05 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Volviendo a principal...
+sep. 25, 2024 8:49:05 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 8:49:05 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 8:49:05 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 8:49:10 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a AgregarDeporte
+sep. 25, 2024 8:49:10 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando DeporteController...
+sep. 25, 2024 8:49:10 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: DeporteController inicializado
+sep. 25, 2024 8:49:10 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a AgregarDeporte
+sep. 25, 2024 8:49:17 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Deporte registrado
+sep. 25, 2024 8:49:17 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Volviendo a principal...
+sep. 25, 2024 8:49:17 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 8:49:17 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 8:49:17 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 8:49:18 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a AgregarMiembro
+sep. 25, 2024 8:49:18 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando AgregarMiembroController...
+sep. 25, 2024 8:49:18 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: AgregarMiembroController inicializado
+sep. 25, 2024 8:49:18 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a AgregarMiembro
+sep. 25, 2024 8:49:25 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembro registrado
+sep. 25, 2024 8:49:33 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembro registrado
+sep. 25, 2024 8:49:33 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Volviendo a principal...
+sep. 25, 2024 8:49:33 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 8:49:33 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 8:49:33 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 8:49:34 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a AgregarEntrenador
+sep. 25, 2024 8:49:34 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializanco AgregarEntrenadorController...
+sep. 25, 2024 8:49:34 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: AgregarEntrenadorController inicializado
+sep. 25, 2024 8:49:34 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a AgregarEntrenador
+sep. 25, 2024 8:49:40 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Entrenador registrado
+sep. 25, 2024 8:49:41 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Volviendo a principal...
+sep. 25, 2024 8:49:41 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 8:49:41 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 8:49:41 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 8:49:42 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a ProgramarSesionEntrenamiento
+sep. 25, 2024 8:49:42 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando ProgramarSesionEntrenamientoController...
+sep. 25, 2024 8:49:42 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: ProgramarSesionEntrenamientoController Inicializado
+sep. 25, 2024 8:49:42 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a ProgramarSesionEntrenamiento
+sep. 25, 2024 8:50:00 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Sesión registrada
+sep. 25, 2024 8:50:01 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Volviendo a principal...
+sep. 25, 2024 8:50:01 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 8:50:01 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 8:50:01 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 8:50:02 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a AgregarEntrenador
+sep. 25, 2024 8:50:02 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializanco AgregarEntrenadorController...
+sep. 25, 2024 8:50:02 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: AgregarEntrenadorController inicializado
+sep. 25, 2024 8:50:02 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a AgregarEntrenador
+sep. 25, 2024 8:50:03 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Volviendo a principal...
+sep. 25, 2024 8:50:03 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 8:50:03 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 8:50:03 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 8:50:09 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembro asignado a sesión
+sep. 25, 2024 8:50:20 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembro asignado a sesión
+sep. 25, 2024 8:50:24 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Entrenador asignado a deporte
+sep. 25, 2024 8:50:27 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+ADVERTENCIA: Error sesión no encontrada
+sep. 25, 2024 8:50:30 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Estado de sesión consultado
+sep. 25, 2024 8:50:33 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Lista de personas impresa
+sep. 25, 2024 8:50:35 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Lista de sesiones impresa
+sep. 25, 2024 8:50:38 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembros serializados a Dat
+sep. 25, 2024 8:50:45 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+GRAVE: Error al intentar serializar los miembros a Dat
+sep. 25, 2024 8:50:52 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembros serializados a Dat
+sep. 25, 2024 8:50:53 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+GRAVE: Error al intentar serializar los miembros a Dat
+sep. 25, 2024 8:51:01 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Personas serializadas a Dat
+sep. 25, 2024 8:51:07 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+GRAVE: Error al intentar serializar las personas a Dat
+sep. 25, 2024 8:51:10 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Sesiones serializadas a Dat
+sep. 25, 2024 8:51:12 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+GRAVE: Error al intentar serializar las sesiones a Dat
+sep. 25, 2024 8:54:55 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando LoginController...
+sep. 25, 2024 8:54:55 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: LoginController inicializado
+sep. 25, 2024 8:55:01 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Administrador creado
+sep. 25, 2024 8:55:01 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Idioma cambiado a Español Colombia
+sep. 25, 2024 8:55:01 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a principal...
+sep. 25, 2024 8:55:02 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 8:55:02 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 8:55:02 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 8:55:03 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a AgregarDeporte
+sep. 25, 2024 8:55:03 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando DeporteController...
+sep. 25, 2024 8:55:03 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: DeporteController inicializado
+sep. 25, 2024 8:55:03 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a AgregarDeporte
+sep. 25, 2024 8:55:09 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Deporte registrado
+sep. 25, 2024 8:55:09 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Volviendo a principal...
+sep. 25, 2024 8:55:10 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 8:55:10 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 8:55:10 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 8:55:11 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a AgregarMiembro
+sep. 25, 2024 8:55:11 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando AgregarMiembroController...
+sep. 25, 2024 8:55:11 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: AgregarMiembroController inicializado
+sep. 25, 2024 8:55:11 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a AgregarMiembro
+sep. 25, 2024 8:55:20 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembro registrado
+sep. 25, 2024 8:55:30 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembro registrado
+sep. 25, 2024 8:55:30 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Volviendo a principal...
+sep. 25, 2024 8:55:31 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 8:55:31 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 8:55:31 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 8:55:31 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a AgregarEntrenador
+sep. 25, 2024 8:55:31 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializanco AgregarEntrenadorController...
+sep. 25, 2024 8:55:31 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: AgregarEntrenadorController inicializado
+sep. 25, 2024 8:55:31 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a AgregarEntrenador
+sep. 25, 2024 8:55:36 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Entrenador registrado
+sep. 25, 2024 8:55:37 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Volviendo a principal...
+sep. 25, 2024 8:55:37 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 8:55:37 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 8:55:37 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 8:55:38 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a ProgramarSesionEntrenamiento
+sep. 25, 2024 8:55:38 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando ProgramarSesionEntrenamientoController...
+sep. 25, 2024 8:55:38 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: ProgramarSesionEntrenamientoController Inicializado
+sep. 25, 2024 8:55:38 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a ProgramarSesionEntrenamiento
+sep. 25, 2024 8:55:56 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Sesión registrada
+sep. 25, 2024 8:55:57 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Volviendo a principal...
+sep. 25, 2024 8:55:57 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 8:55:57 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 8:55:57 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 8:56:06 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembro asignado a sesión
+sep. 25, 2024 8:56:27 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembro asignado a sesión
+sep. 25, 2024 8:56:32 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Entrenador asignado a deporte
+sep. 25, 2024 8:56:36 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Estado de sesión consultado
+sep. 25, 2024 8:56:41 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembros serializados a Dat
+sep. 25, 2024 8:56:42 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembros serializadas a Dat impresas
+sep. 25, 2024 8:56:44 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Personas serializadas a Dat
+sep. 25, 2024 8:56:44 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Personas serializadas a Dat impresas
+sep. 25, 2024 8:56:45 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Sesiones serializadas a Dat
+sep. 25, 2024 8:56:46 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Sesiones serializadas a Dat impresas
+sep. 25, 2024 8:56:50 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Personas serializadas a XML
+sep. 25, 2024 8:56:52 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Personas serializadas a XML impresas
+sep. 25, 2024 8:57:32 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Personas serializadas a XML
+sep. 25, 2024 8:57:33 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Personas serializadas a XML impresas
+sep. 25, 2024 8:59:37 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando LoginController...
+sep. 25, 2024 8:59:37 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: LoginController inicializado
+sep. 25, 2024 8:59:44 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Administrador creado
+sep. 25, 2024 8:59:44 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Idioma cambiado a Español Colombia
+sep. 25, 2024 8:59:44 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a principal...
+sep. 25, 2024 8:59:45 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 8:59:45 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 8:59:45 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 8:59:47 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a AgregarDeporte
+sep. 25, 2024 8:59:47 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando DeporteController...
+sep. 25, 2024 8:59:47 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: DeporteController inicializado
+sep. 25, 2024 8:59:47 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a AgregarDeporte
+sep. 25, 2024 8:59:51 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Deporte registrado
+sep. 25, 2024 8:59:52 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Volviendo a principal...
+sep. 25, 2024 8:59:52 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 8:59:52 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 8:59:52 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 8:59:53 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a AgregarMiembro
+sep. 25, 2024 8:59:53 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando AgregarMiembroController...
+sep. 25, 2024 8:59:53 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: AgregarMiembroController inicializado
+sep. 25, 2024 8:59:53 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a AgregarMiembro
+sep. 25, 2024 9:00:02 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembro registrado
+sep. 25, 2024 9:00:08 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembro registrado
+sep. 25, 2024 9:00:09 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Volviendo a principal...
+sep. 25, 2024 9:00:09 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 9:00:09 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 9:00:09 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 9:00:10 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a AgregarEntrenador
+sep. 25, 2024 9:00:10 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializanco AgregarEntrenadorController...
+sep. 25, 2024 9:02:25 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando LoginController...
+sep. 25, 2024 9:02:25 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: LoginController inicializado
+sep. 25, 2024 9:02:35 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Administrador creado
+sep. 25, 2024 9:02:35 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Idioma cambiado a Español Colombia
+sep. 25, 2024 9:02:35 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a principal...
+sep. 25, 2024 9:02:35 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 9:02:35 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 9:02:35 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 9:02:37 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a AgregarDeporte
+sep. 25, 2024 9:02:37 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando DeporteController...
+sep. 25, 2024 9:02:37 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: DeporteController inicializado
+sep. 25, 2024 9:02:37 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a AgregarDeporte
+sep. 25, 2024 9:02:51 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Deporte registrado
+sep. 25, 2024 9:02:54 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Volviendo a principal...
+sep. 25, 2024 9:02:54 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 9:02:54 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 9:02:54 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 9:02:55 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a AgregarMiembro
+sep. 25, 2024 9:02:55 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando AgregarMiembroController...
+sep. 25, 2024 9:02:55 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: AgregarMiembroController inicializado
+sep. 25, 2024 9:02:55 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a AgregarMiembro
+sep. 25, 2024 9:03:04 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembro registrado
+sep. 25, 2024 9:03:15 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembro registrado
+sep. 25, 2024 9:03:15 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Volviendo a principal...
+sep. 25, 2024 9:03:16 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 9:03:16 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 9:03:16 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 9:03:17 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a AgregarEntrenador
+sep. 25, 2024 9:03:17 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializanco AgregarEntrenadorController...
+sep. 25, 2024 9:03:17 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: AgregarEntrenadorController inicializado
+sep. 25, 2024 9:03:17 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a AgregarEntrenador
+sep. 25, 2024 9:03:26 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Entrenador registrado
+sep. 25, 2024 9:03:27 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Volviendo a principal...
+sep. 25, 2024 9:03:27 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 9:03:27 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 9:03:27 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 9:03:29 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a ProgramarSesionEntrenamiento
+sep. 25, 2024 9:03:29 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando ProgramarSesionEntrenamientoController...
+sep. 25, 2024 9:03:29 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: ProgramarSesionEntrenamientoController Inicializado
+sep. 25, 2024 9:03:29 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a ProgramarSesionEntrenamiento
+sep. 25, 2024 9:03:49 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Sesión registrada
+sep. 25, 2024 9:03:56 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Volviendo a principal...
+sep. 25, 2024 9:03:56 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 9:03:56 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 9:03:56 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 9:04:02 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembro asignado a sesión
+sep. 25, 2024 9:04:07 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+ADVERTENCIA: Error miembro no encontrado
+sep. 25, 2024 9:04:10 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembro asignado a sesión
+sep. 25, 2024 9:04:15 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Entrenador asignado a deporte
+sep. 25, 2024 9:04:19 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Estado de sesión consultado
+sep. 25, 2024 9:04:23 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Lista de personas impresa
+sep. 25, 2024 9:04:24 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Lista de sesiones impresa
+sep. 25, 2024 9:04:26 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembros serializados a Dat
+sep. 25, 2024 9:04:27 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembros serializadas a Dat impresas
+sep. 25, 2024 9:04:27 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Personas serializadas a Dat
+sep. 25, 2024 9:04:28 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Personas serializadas a Dat impresas
+sep. 25, 2024 9:04:29 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Sesiones serializadas a Dat
+sep. 25, 2024 9:04:30 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Sesiones serializadas a Dat impresas
+sep. 25, 2024 9:04:50 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Personas serializadas a XML
+sep. 25, 2024 9:04:51 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Personas serializadas a XML impresas
+sep. 25, 2024 9:04:53 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Sesiones serializadas a XML
+sep. 25, 2024 9:05:01 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+GRAVE: Error al intentar serializar las sesiones a XML
+sep. 25, 2024 9:14:49 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando LoginController...
+sep. 25, 2024 9:14:49 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: LoginController inicializado
+sep. 25, 2024 9:14:54 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Administrador creado
+sep. 25, 2024 9:14:54 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Idioma cambiado a Español Colombia
+sep. 25, 2024 9:14:54 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a principal...
+sep. 25, 2024 9:14:55 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 9:14:55 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 9:14:55 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 9:14:56 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a AgregarDeporte
+sep. 25, 2024 9:14:56 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando DeporteController...
+sep. 25, 2024 9:14:56 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: DeporteController inicializado
+sep. 25, 2024 9:14:56 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a AgregarDeporte
+sep. 25, 2024 9:16:16 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando LoginController...
+sep. 25, 2024 9:16:16 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: LoginController inicializado
+sep. 25, 2024 9:16:22 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Administrador creado
+sep. 25, 2024 9:16:22 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Idioma cambiado a Español Colombia
+sep. 25, 2024 9:16:22 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a principal...
+sep. 25, 2024 9:16:22 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 9:16:22 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 9:16:22 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 9:16:23 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a AgregarDeporte
+sep. 25, 2024 9:16:23 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando DeporteController...
+sep. 25, 2024 9:16:23 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: DeporteController inicializado
+sep. 25, 2024 9:16:23 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a AgregarDeporte
+sep. 25, 2024 9:16:27 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Deporte registrado
+sep. 25, 2024 9:16:28 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Volviendo a principal...
+sep. 25, 2024 9:16:28 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 9:16:28 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 9:16:28 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 9:16:28 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a AgregarMiembro
+sep. 25, 2024 9:16:28 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando AgregarMiembroController...
+sep. 25, 2024 9:16:28 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: AgregarMiembroController inicializado
+sep. 25, 2024 9:16:28 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a AgregarMiembro
+sep. 25, 2024 9:16:36 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembro registrado
+sep. 25, 2024 9:16:47 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembro registrado
+sep. 25, 2024 9:16:50 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Volviendo a principal...
+sep. 25, 2024 9:16:50 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 9:16:50 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 9:16:50 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 9:16:51 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a AgregarEntrenador
+sep. 25, 2024 9:16:51 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializanco AgregarEntrenadorController...
+sep. 25, 2024 9:16:51 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: AgregarEntrenadorController inicializado
+sep. 25, 2024 9:16:51 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a AgregarEntrenador
+sep. 25, 2024 9:16:54 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Entrenador registrado
+sep. 25, 2024 9:16:55 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Volviendo a principal...
+sep. 25, 2024 9:16:55 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 9:16:55 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 9:16:55 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 9:16:56 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a ProgramarSesionEntrenamiento
+sep. 25, 2024 9:16:56 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando ProgramarSesionEntrenamientoController...
+sep. 25, 2024 9:16:56 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: ProgramarSesionEntrenamientoController Inicializado
+sep. 25, 2024 9:16:56 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a ProgramarSesionEntrenamiento
+sep. 25, 2024 9:17:09 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Sesión registrada
+sep. 25, 2024 9:17:10 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Volviendo a principal...
+sep. 25, 2024 9:17:10 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 9:17:10 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 9:17:10 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 9:17:14 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembro asignado a sesión
+sep. 25, 2024 9:17:18 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembro asignado a sesión
+sep. 25, 2024 9:17:21 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Entrenador asignado a deporte
+sep. 25, 2024 9:17:24 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+ADVERTENCIA: Error sesión no encontrada
+sep. 25, 2024 9:17:27 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Estado de sesión consultado
+sep. 25, 2024 9:17:30 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Lista de personas impresa
+sep. 25, 2024 9:17:31 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Lista de sesiones impresa
+sep. 25, 2024 9:17:34 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembros serializados a Dat
+sep. 25, 2024 9:17:34 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembros serializadas a Dat impresas
+sep. 25, 2024 9:17:36 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Personas serializadas a Dat
+sep. 25, 2024 9:17:38 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Personas serializadas a Dat impresas
+sep. 25, 2024 9:17:39 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Sesiones serializadas a Dat
+sep. 25, 2024 9:17:41 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Sesiones serializadas a Dat impresas
+sep. 25, 2024 9:17:49 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Personas serializadas a XML
+sep. 25, 2024 9:17:50 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Personas serializadas a XML impresas
+sep. 25, 2024 9:17:52 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Sesiones serializadas a XML
+sep. 25, 2024 9:17:57 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+GRAVE: Error al intentar serializar las sesiones a XML
+sep. 25, 2024 9:21:41 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando LoginController...
+sep. 25, 2024 9:21:41 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: LoginController inicializado
+sep. 25, 2024 9:31:02 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando LoginController...
+sep. 25, 2024 9:31:02 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: LoginController inicializado
+sep. 25, 2024 9:31:09 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Administrador creado
+sep. 25, 2024 9:31:09 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Idioma cambiado a Español Colombia
+sep. 25, 2024 9:31:09 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a principal...
+sep. 25, 2024 9:31:09 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 9:31:09 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 9:31:09 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 9:31:10 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a AgregarDeporte
+sep. 25, 2024 9:31:10 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando DeporteController...
+sep. 25, 2024 9:31:10 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: DeporteController inicializado
+sep. 25, 2024 9:31:10 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a AgregarDeporte
+sep. 25, 2024 9:31:15 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Deporte registrado
+sep. 25, 2024 9:31:16 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Volviendo a principal...
+sep. 25, 2024 9:31:16 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 9:31:16 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 9:31:16 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 9:31:17 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a AgregarMiembro
+sep. 25, 2024 9:31:17 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando AgregarMiembroController...
+sep. 25, 2024 9:31:17 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: AgregarMiembroController inicializado
+sep. 25, 2024 9:31:17 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a AgregarMiembro
+sep. 25, 2024 9:31:24 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembro registrado
+sep. 25, 2024 9:32:06 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando LoginController...
+sep. 25, 2024 9:32:06 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: LoginController inicializado
+sep. 25, 2024 9:32:17 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Administrador creado
+sep. 25, 2024 9:32:17 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Idioma cambiado a Español Colombia
+sep. 25, 2024 9:32:17 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a principal...
+sep. 25, 2024 9:32:18 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 9:32:18 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 9:32:18 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 9:32:19 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a AgregarDeporte
+sep. 25, 2024 9:32:19 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando DeporteController...
+sep. 25, 2024 9:32:19 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: DeporteController inicializado
+sep. 25, 2024 9:32:19 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a AgregarDeporte
+sep. 25, 2024 9:32:26 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Deporte registrado
+sep. 25, 2024 9:32:26 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Volviendo a principal...
+sep. 25, 2024 9:32:27 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 9:32:27 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 9:32:27 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 9:32:27 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a AgregarMiembro
+sep. 25, 2024 9:32:27 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando AgregarMiembroController...
+sep. 25, 2024 9:32:27 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: AgregarMiembroController inicializado
+sep. 25, 2024 9:32:27 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a AgregarMiembro
+sep. 25, 2024 9:32:34 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembro registrado
+sep. 25, 2024 9:32:41 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembro registrado
+sep. 25, 2024 9:32:41 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Volviendo a principal...
+sep. 25, 2024 9:32:41 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 9:32:41 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 9:32:41 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 9:32:42 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a AgregarEntrenador
+sep. 25, 2024 9:32:42 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializanco AgregarEntrenadorController...
+sep. 25, 2024 9:32:42 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: AgregarEntrenadorController inicializado
+sep. 25, 2024 9:32:42 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a AgregarEntrenador
+sep. 25, 2024 9:32:45 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Entrenador registrado
+sep. 25, 2024 9:32:46 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Volviendo a principal...
+sep. 25, 2024 9:32:46 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 9:32:46 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 9:32:46 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 9:32:47 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a ProgramarSesionEntrenamiento
+sep. 25, 2024 9:32:47 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando ProgramarSesionEntrenamientoController...
+sep. 25, 2024 9:32:47 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: ProgramarSesionEntrenamientoController Inicializado
+sep. 25, 2024 9:32:47 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a ProgramarSesionEntrenamiento
+sep. 25, 2024 9:32:56 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Sesión registrada
+sep. 25, 2024 9:32:57 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Volviendo a principal...
+sep. 25, 2024 9:32:57 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 9:32:57 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 9:32:57 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 9:33:01 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembro asignado a sesión
+sep. 25, 2024 9:33:06 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembro asignado a sesión
+sep. 25, 2024 9:33:09 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Entrenador asignado a deporte
+sep. 25, 2024 9:33:13 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Estado de sesión consultado
+sep. 25, 2024 9:33:15 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Lista de personas impresa
+sep. 25, 2024 9:33:16 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Lista de sesiones impresa
+sep. 25, 2024 9:33:26 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Club deportivo serializado a XML
+sep. 25, 2024 9:33:45 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Club deportivo serializado a XML impreso
+sep. 25, 2024 9:33:48 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Club deportivo serializado a XML
+sep. 25, 2024 9:33:51 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Club deportivo serializado a XML impreso
+sep. 25, 2024 9:43:49 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando LoginController...
+sep. 25, 2024 9:43:49 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: LoginController inicializado
+sep. 25, 2024 9:43:55 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Administrador creado
+sep. 25, 2024 9:43:55 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Idioma cambiado a Español Colombia
+sep. 25, 2024 9:43:55 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a principal...
+sep. 25, 2024 9:43:55 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 9:43:55 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 9:43:55 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 9:43:56 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a AgregarDeporte
+sep. 25, 2024 9:43:56 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando DeporteController...
+sep. 25, 2024 9:43:56 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: DeporteController inicializado
+sep. 25, 2024 9:43:56 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a AgregarDeporte
+sep. 25, 2024 9:44:04 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Deporte registrado
+sep. 25, 2024 9:44:04 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+ADVERTENCIA: Error datos nulos
+sep. 25, 2024 9:44:06 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Volviendo a principal...
+sep. 25, 2024 9:44:06 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 9:44:06 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 9:44:06 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 9:44:06 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a AgregarMiembro
+sep. 25, 2024 9:44:06 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando AgregarMiembroController...
+sep. 25, 2024 9:44:06 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: AgregarMiembroController inicializado
+sep. 25, 2024 9:44:06 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a AgregarMiembro
+sep. 25, 2024 9:44:13 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembro registrado
+sep. 25, 2024 9:44:19 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembro registrado
+sep. 25, 2024 9:44:20 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Volviendo a principal...
+sep. 25, 2024 9:44:20 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 9:44:20 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 9:44:20 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 9:44:21 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a AgregarEntrenador
+sep. 25, 2024 9:44:21 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializanco AgregarEntrenadorController...
+sep. 25, 2024 9:44:21 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: AgregarEntrenadorController inicializado
+sep. 25, 2024 9:44:21 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a AgregarEntrenador
+sep. 25, 2024 9:44:27 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Entrenador registrado
+sep. 25, 2024 9:44:27 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Volviendo a principal...
+sep. 25, 2024 9:44:27 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 9:44:27 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 9:44:27 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 9:44:29 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a ProgramarSesionEntrenamiento
+sep. 25, 2024 9:44:29 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando ProgramarSesionEntrenamientoController...
+sep. 25, 2024 9:44:29 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: ProgramarSesionEntrenamientoController Inicializado
+sep. 25, 2024 9:44:29 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a ProgramarSesionEntrenamiento
+sep. 25, 2024 9:44:38 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Sesión registrada
+sep. 25, 2024 9:44:39 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Volviendo a principal...
+sep. 25, 2024 9:44:39 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 9:44:39 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 9:44:39 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 9:44:45 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembro asignado a sesión
+sep. 25, 2024 9:44:48 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembro asignado a sesión
+sep. 25, 2024 9:44:51 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Entrenador asignado a deporte
+sep. 25, 2024 9:44:54 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Estado de sesión consultado
+sep. 25, 2024 9:44:57 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Lista de personas impresa
+sep. 25, 2024 9:44:58 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Lista de sesiones impresa
+sep. 25, 2024 9:45:01 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembros serializados a Dat
+sep. 25, 2024 9:45:01 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembros serializadas a Dat impresas
+sep. 25, 2024 9:45:02 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Personas serializadas a Dat
+sep. 25, 2024 9:45:03 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Personas serializadas a Dat impresas
+sep. 25, 2024 9:45:04 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Sesiones serializadas a Dat
+sep. 25, 2024 9:45:04 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Sesiones serializadas a Dat impresas
+sep. 25, 2024 9:45:06 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Personas serializadas a XML
+sep. 25, 2024 9:45:07 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Personas serializadas a XML impresas
+sep. 25, 2024 9:45:08 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Sesiones serializadas a XML
+sep. 25, 2024 9:45:12 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+GRAVE: Error al intentar serializar las sesiones a XML
+sep. 25, 2024 9:45:14 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Club deportivo serializado a XML
+sep. 25, 2024 9:45:17 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Club deportivo serializado a XML impreso
+sep. 25, 2024 9:49:17 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando LoginController...
+sep. 25, 2024 9:49:17 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: LoginController inicializado
+sep. 25, 2024 9:49:22 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Administrador creado
+sep. 25, 2024 9:49:22 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Idioma cambiado a Español Colombia
+sep. 25, 2024 9:49:22 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a principal...
+sep. 25, 2024 9:49:22 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 9:49:22 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 9:49:22 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 9:49:23 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a AgregarDeporte
+sep. 25, 2024 9:49:23 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando DeporteController...
+sep. 25, 2024 9:49:23 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: DeporteController inicializado
+sep. 25, 2024 9:49:23 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a AgregarDeporte
+sep. 25, 2024 9:49:28 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Deporte registrado
+sep. 25, 2024 9:49:28 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Volviendo a principal...
+sep. 25, 2024 9:49:28 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 9:49:28 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 9:49:28 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 9:49:29 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a AgregarMiembro
+sep. 25, 2024 9:49:29 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando AgregarMiembroController...
+sep. 25, 2024 9:49:29 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: AgregarMiembroController inicializado
+sep. 25, 2024 9:49:29 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a AgregarMiembro
+sep. 25, 2024 9:49:35 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembro registrado
+sep. 25, 2024 9:49:41 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembro registrado
+sep. 25, 2024 9:49:42 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Volviendo a principal...
+sep. 25, 2024 9:49:42 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 9:49:42 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 9:49:42 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 9:49:42 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a AgregarEntrenador
+sep. 25, 2024 9:49:42 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializanco AgregarEntrenadorController...
+sep. 25, 2024 9:49:42 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: AgregarEntrenadorController inicializado
+sep. 25, 2024 9:49:42 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a AgregarEntrenador
+sep. 25, 2024 9:49:46 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Entrenador registrado
+sep. 25, 2024 9:49:46 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Volviendo a principal...
+sep. 25, 2024 9:49:46 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 9:49:46 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 9:49:46 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 9:49:47 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Cambiando a ProgramarSesionEntrenamiento
+sep. 25, 2024 9:49:47 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando ProgramarSesionEntrenamientoController...
+sep. 25, 2024 9:49:47 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: ProgramarSesionEntrenamientoController Inicializado
+sep. 25, 2024 9:49:47 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a ProgramarSesionEntrenamiento
+sep. 25, 2024 9:49:57 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Sesión registrada
+sep. 25, 2024 9:49:58 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Volviendo a principal...
+sep. 25, 2024 9:49:58 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Inicializando PrincipalController...
+sep. 25, 2024 9:49:58 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: PrincipalController inicializado
+sep. 25, 2024 9:49:58 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Escena cambiada a principal
+sep. 25, 2024 9:50:03 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembro asignado a sesión
+sep. 25, 2024 9:50:07 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembro asignado a sesión
+sep. 25, 2024 9:50:11 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Entrenador asignado a deporte
+sep. 25, 2024 9:50:14 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Estado de sesión consultado
+sep. 25, 2024 9:50:16 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembros serializados a Dat
+sep. 25, 2024 9:50:17 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Miembros serializadas a Dat impresas
+sep. 25, 2024 9:50:18 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Personas serializadas a Dat
+sep. 25, 2024 9:50:18 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Personas serializadas a Dat impresas
+sep. 25, 2024 9:50:21 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Sesiones serializadas a Dat
+sep. 25, 2024 9:50:21 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Sesiones serializadas a Dat impresas
+sep. 25, 2024 9:50:30 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Personas serializadas a XML
+sep. 25, 2024 9:50:32 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Personas serializadas a XML impresas
+sep. 25, 2024 9:50:40 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+GRAVE: Error al intentar serializar las sesiones a XML
+sep. 25, 2024 9:50:44 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Club deportivo serializado a XML
+sep. 25, 2024 9:50:45 P. M. co.edu.uniquindio.laboratorio1.Utilidades escribirLog
+INFORMACIÓN: Club deportivo serializado a XML impreso

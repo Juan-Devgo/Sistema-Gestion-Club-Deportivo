@@ -10,6 +10,8 @@ public abstract class Persona implements Serializable{
     protected String nombre;
     protected String identificacion;
 
+    public Persona(){}
+
     public Persona(String nombre, String identificacion){
         this.nombre = nombre;
         this.identificacion = identificacion;

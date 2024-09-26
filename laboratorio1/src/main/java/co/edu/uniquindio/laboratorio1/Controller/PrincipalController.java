@@ -99,13 +99,31 @@ public class PrincipalController {
     private Tab serializartab;
 
     @FXML
-    private Button serializarListaEntrenadoresbt;
+    private Button serializarListaEntrenadoresDatbt;
 
     @FXML
-    private Button serializarListaMiembrosbt;
+    private Button serializarListaEntrenadoresXmlbt;
 
     @FXML
-    private Button serializarListaSesionesbt;
+    private Button serializarListaMiembrosDatbt;
+
+    @FXML
+    private Button serializarListaMiembrosXmlbt;
+
+    @FXML
+    private Button serializarListaSesionesDatbt;
+
+    @FXML
+    private Button serializarListaSesionesXmlbt;
+    
+    @FXML
+    private Label serializardatlb;
+
+    @FXML
+    private Label serializarxmllb;
+
+    @FXML
+    private Button serializarclubbt;
 
     @FXML
     void cambiarLogin(ActionEvent event) throws IOException {
@@ -170,11 +188,14 @@ public class PrincipalController {
         volverbt.setText(Utilidades.getInstancia().mostrarMensajeBundle("volverbt"));
         aceptarmiembrobt.setText(Utilidades.getInstancia().mostrarMensajeBundle("aceptarbt"));
         aceptarentrenadorbt.setText(Utilidades.getInstancia().mostrarMensajeBundle("aceptarbt"));
-        serializarListaEntrenadoresbt.setText(Utilidades.getInstancia().mostrarMensajeBundle("serializarListaEntrenadoresbt"));
-        serializarListaMiembrosbt.setText(Utilidades.getInstancia().mostrarMensajeBundle("serializarListaMiembrosbt"));
-        serializarListaSesionesbt.setText(Utilidades.getInstancia().mostrarMensajeBundle("serializarListaSesionesbt"));
+        serializarListaEntrenadoresDatbt.setText(Utilidades.getInstancia().mostrarMensajeBundle("serializarListaEntrenadoresDatbt"));
+        serializarListaMiembrosDatbt.setText(Utilidades.getInstancia().mostrarMensajeBundle("serializarListaMiembrosDatbt"));
+        serializarListaSesionesDatbt.setText(Utilidades.getInstancia().mostrarMensajeBundle("serializarListaSesionesDatbt"));
+        serializarListaEntrenadoresXmlbt.setText(Utilidades.getInstancia().mostrarMensajeBundle("serializarListaEntrenadoresXmlbt"));
+        serializarListaSesionesXmlbt.setText(Utilidades.getInstancia().mostrarMensajeBundle("serializarListaSesionesXmlbt"));
+        serializardatlb.setText(Utilidades.getInstancia().mostrarMensajeBundle("serializardatlb"));
+        serializarxmllb.setText(Utilidades.getInstancia().mostrarMensajeBundle("serializarxmllb"));
         Utilidades.getInstancia().escribirLog(Level.INFO, "PrincipalController inicializado");
-
     }
 
     @FXML
@@ -336,19 +357,151 @@ public class PrincipalController {
         Utilidades.getInstancia().escribirLog(Level.INFO, "Lista de sesiones impresa");
     }
 
+    //Métodos para serializar a .Dat
+
     @FXML
-    void SerializarListaMiembros(ActionEvent event) {
+    @SuppressWarnings("unchecked")
+    void SerializarListaMiembrosADat(ActionEvent event) throws IOException {
+        LinkedList<Miembro> miembros = App.getClub().getMiembros(); 
+
+        try {
+            Utilidades.getInstancia().serializarObjetoDat("miembros.dat",miembros);
+            JOptionPane.showMessageDialog(null, Utilidades.getInstancia().mostrarMensajeBundle("MensajeMiembrosSerializadosDat"));
+            Utilidades.getInstancia().escribirLog(Level.INFO, "Miembros serializados a Dat"); 
+            
+            LinkedList<Persona> nuevaListaMiembros = (LinkedList<Persona>) Utilidades.getInstancia().deserializarObjetoDat("miembros.dat");
+            JOptionPane.showMessageDialog(null, imprimirNombres(nuevaListaMiembros));
+
+            Utilidades.getInstancia().escribirLog(Level.INFO,"Miembros serializadas a Dat impresas");
+        } catch (Exception e){
+            JOptionPane.showMessageDialog(null,Utilidades.getInstancia().mostrarMensajeBundle("MensajeErrorMiembrosSerializadosDat")); 
+            Utilidades.getInstancia().escribirLog(Level.SEVERE,"Error al intentar serializar los miembros a Dat"); 
+        }
+    }
+
+    @FXML
+    @SuppressWarnings("unchecked")
+    void SerializarListaPersonasADat(ActionEvent event) throws IOException{
+        
+        LinkedList<Persona> personas = new LinkedList<>();
+        personas.add(App.getClub().getAdministrador()) ; personas.addAll(App.getClub().getMiembros()); 
+        personas.addAll(App.getClub().getEntrenadores());
+
+        try {
+            Utilidades.getInstancia().serializarObjetoDat("personas.dat", personas);
+            JOptionPane.showMessageDialog(null, Utilidades.getInstancia().mostrarMensajeBundle("MensajePersonasSerializadasDat"));
+            Utilidades.getInstancia().escribirLog(Level.INFO, "Personas serializadas a Dat");
+
+            LinkedList<Persona> nuevaListaPersonas = (LinkedList<Persona>) Utilidades.getInstancia().deserializarObjetoDat("personas.dat");
+            JOptionPane.showMessageDialog(null, imprimirNombres(nuevaListaPersonas)); 
+            Utilidades.getInstancia().escribirLog(Level.INFO,"Personas serializadas a Dat impresas"); 
+
+            
+        } catch (Exception e) {
+            JOptionPane.showMessageDialog(null, Utilidades.getInstancia().mostrarMensajeBundle("MensajeErrorPersonasSerializadasDat"));
+            Utilidades.getInstancia().escribirLog(Level.SEVERE, "Error al intentar serializar las personas a Dat");
+        }
+
+    }
+
+    @FXML
+    @SuppressWarnings("unchecked")
+    void SerializarListaSesionesADat(ActionEvent event) throws IOException{
+        
+        LinkedList<SesionEntrenamiento> sesiones = App.getClub().getSesionesEntrenamiento();
+
+        try {
+            Utilidades.getInstancia().serializarObjetoDat("sesiones.dat", sesiones);
+            JOptionPane.showMessageDialog(null, Utilidades.getInstancia().mostrarMensajeBundle("MensajeSesionesSerializadasDat"));
+            Utilidades.getInstancia().escribirLog(Level.INFO, "Sesiones serializadas a Dat");
+
+            LinkedList<SesionEntrenamiento> nuevaListaSesiones = (LinkedList<SesionEntrenamiento>) Utilidades.getInstancia().deserializarObjetoDat("sesiones.dat");
+            JOptionPane.showMessageDialog(null, imprimirCodigosYDeportes(nuevaListaSesiones));
+            Utilidades.getInstancia().escribirLog(Level.INFO, "Sesiones serializadas a Dat impresas");
+            
+        } catch (Exception e) {
+            JOptionPane.showMessageDialog(null, Utilidades.getInstancia().mostrarMensajeBundle("MensajeErrorSesionesSerializadasDat"));
+            Utilidades.getInstancia().escribirLog(Level.SEVERE, "Error al intentar serializar las sesiones a Dat");
+        }
         
     }
 
+    //Métodos para serializar a XML
 
     @FXML
-    void SerializarListaPersonas(ActionEvent event) {
+    void SerializarClubDeportivoAXML(ActionEvent event) throws IOException {
+        ClubDeportivo club = App.getClub();
+
+        try {
+            Utilidades.getInstancia().serializarObjetoXML("clubDeportivo.xml", club);
+            JOptionPane.showMessageDialog(null, Utilidades.getInstancia().mostrarMensajeBundle("MensajeClubSerializadoXML"));
+            Utilidades.getInstancia().escribirLog(Level.INFO, "Club deportivo serializado a XML");
+
+            ClubDeportivo nuevoClub = (ClubDeportivo) Utilidades.getInstancia().deserializarObjetoXML("clubDeportivo.xml");
+            JOptionPane.showMessageDialog(null, nuevoClub.getNombre());
+            Utilidades.getInstancia().escribirLog(Level.INFO,"Club deportivo serializado a XML impreso"); 
+        } catch (Exception e) {
+            JOptionPane.showMessageDialog(null, Utilidades.getInstancia().mostrarMensajeBundle("MensajeErrorClubSerializadoXML"));
+            Utilidades.getInstancia().escribirLog(Level.SEVERE, "Error al intentar serializar el club deportivo a XML");
+        }
+    }
+    
+    @FXML
+    @SuppressWarnings("unchecked")
+    void SerializarListaPersonasAXML(ActionEvent event) throws IOException {
+        LinkedList<Persona> personas = new LinkedList<>();
+        personas.add(App.getClub().getAdministrador()) ; personas.addAll(App.getClub().getMiembros()); 
+        personas.addAll(App.getClub().getEntrenadores());
+
+        try {
+            Utilidades.getInstancia().serializarObjetoXML("personas.xml", personas);
+            JOptionPane.showMessageDialog(null, Utilidades.getInstancia().mostrarMensajeBundle("MensajePersonasSerializadasXML"));
+            Utilidades.getInstancia().escribirLog(Level.INFO, "Personas serializadas a XML");
+
+            LinkedList<Persona> nuevaListaPersonas = (LinkedList<Persona>) Utilidades.getInstancia().deserializarObjetoXML("personas.xml");
+            JOptionPane.showMessageDialog(null, imprimirNombres(nuevaListaPersonas));
+            Utilidades.getInstancia().escribirLog(Level.INFO,"Personas serializadas a XML impresas"); 
+
+        } catch (Exception e) {
+            JOptionPane.showMessageDialog(null, Utilidades.getInstancia().mostrarMensajeBundle("MensajeErrorPersonasSerializadasXML"));
+            Utilidades.getInstancia().escribirLog(Level.SEVERE, "Error al intentar serializar las personas a XML");
+        }
 
     }
 
     @FXML
-    void SerializarListaSesiones(ActionEvent event) {
+    @SuppressWarnings("unchecked")
+    void SerializarListaSesionesAXML(ActionEvent event) throws IOException {
+      LinkedList<SesionEntrenamiento> sesiones = App.getClub().getSesionesEntrenamiento();
 
+        try {
+            Utilidades.getInstancia().serializarObjetoXML(null, sesiones);
+            JOptionPane.showMessageDialog(null, Utilidades.getInstancia().mostrarMensajeBundle("MensajeSesionesSerializadasXML"));
+            Utilidades.getInstancia().escribirLog(Level.INFO, "Sesiones serializadas a XML");
+
+            LinkedList<SesionEntrenamiento> nuevaListaSesiones = (LinkedList<SesionEntrenamiento>) Utilidades.getInstancia().deserializarObjetoXML("sesiones.xml");
+            JOptionPane.showMessageDialog(null, imprimirCodigosYDeportes(nuevaListaSesiones));
+            Utilidades.getInstancia().escribirLog(Level.INFO, "Sesiones serializadas a XML impresas");
+            
+        } catch (Exception e) {
+            JOptionPane.showMessageDialog(null, Utilidades.getInstancia().mostrarMensajeBundle("MensajeErrorSesionesSerializadasXML"));
+            Utilidades.getInstancia().escribirLog(Level.SEVERE, "Error al intentar serializar las sesiones a XML");
+        }
+    }
+
+    private LinkedList<String> imprimirNombres(LinkedList<Persona> nuevaListaPersonas) {
+        LinkedList<String> nombres = new LinkedList<>();
+        for (Persona persona : nuevaListaPersonas) {
+            nombres.add(persona.getNombre());
+        }
+        return nombres;
+    }
+
+    private LinkedList<String> imprimirCodigosYDeportes(LinkedList<SesionEntrenamiento> sesiones) {
+        LinkedList<String> codigosYDeportes = new LinkedList<>();
+        for (SesionEntrenamiento sesion : sesiones) {
+            codigosYDeportes.add(sesion.getCodigo() + ": " + sesion.getDeporte().getNombre());
+        }
+        return codigosYDeportes;
     }
 }

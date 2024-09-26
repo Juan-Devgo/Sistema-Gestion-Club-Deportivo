@@ -12,7 +12,7 @@ public class Miembro extends Persona {
         this.tipoMiembro = tipoMiembro;
         this.deporte = deporte;
     }
-
+    
     public String getCorreo(){
         return correo;
     }

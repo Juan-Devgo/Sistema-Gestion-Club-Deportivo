@@ -11,30 +11,42 @@
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.text.Font?>
 
-<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="350.0" prefWidth="500.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="co.edu.uniquindio.laboratorio1.Controller.PrincipalController">
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="465.0" prefWidth="650.0" style="-fx-background-color: #C4DAFA;" xmlns="http://javafx.com/javafx/22" xmlns:fx="http://javafx.com/fxml/1" fx:controller="co.edu.uniquindio.laboratorio1.Controller.PrincipalController">
    <children>
-      <TabPane layoutX="-1.0" layoutY="46.0" prefHeight="258.0" prefWidth="500.0" tabClosingPolicy="UNAVAILABLE">
+      <TabPane layoutY="57.0" prefHeight="351.0" prefWidth="650.0" tabClosingPolicy="UNAVAILABLE">
         <tabs>
           <Tab fx:id="registrotab" text="Registro">
             <content>
               <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="237.0" prefWidth="500.0">
                      <children>
-                        <Button fx:id="registrarmiembrobt" layoutX="193.0" layoutY="72.0" mnemonicParsing="false" onAction="#cambiarAgregarMiembro" text="Registrar Miembro">
+                        <Button fx:id="registrarmiembrobt" layoutX="218.0" layoutY="95.0" maxHeight="55.0" maxWidth="215.0" minHeight="55.0" minWidth="215.0" mnemonicParsing="false" onAction="#cambiarAgregarMiembro" prefHeight="55.0" prefWidth="215.0" style="-fx-background-color: #84B6F4;" text="Registrar Miembro">
                            <cursor>
                               <Cursor fx:constant="HAND" />
-                           </cursor></Button>
-                        <Button fx:id="registrarentrenadorbt" layoutX="188.0" layoutY="127.0" mnemonicParsing="false" onAction="#cambiarAgregarEntrenador" text="Registrar Entrenador">
+                           </cursor>
+                           <font>
+                              <Font name="Lucida Bright" size="17.0" />
+                           </font></Button>
+                        <Button fx:id="registrarentrenadorbt" layoutX="218.0" layoutY="171.0" maxHeight="55.0" maxWidth="215.0" minHeight="55.0" minWidth="215.0" mnemonicParsing="false" onAction="#cambiarAgregarEntrenador" prefHeight="55.0" prefWidth="215.0" style="-fx-background-color: #84B6F4;" text="Registrar Entrenador">
                            <cursor>
                               <Cursor fx:constant="HAND" />
-                           </cursor></Button>
-                        <Button fx:id="registrardeportebt" layoutX="195.0" layoutY="23.0" mnemonicParsing="false" onAction="#cambiarAgregarDeporte" text="Registrar Deporte">
+                           </cursor>
+                           <font>
+                              <Font name="Lucida Bright" size="17.0" />
+                           </font></Button>
+                        <Button fx:id="registrardeportebt" layoutX="218.0" layoutY="21.0" maxHeight="55.0" maxWidth="215.0" minHeight="55.0" minWidth="215.0" mnemonicParsing="false" onAction="#cambiarAgregarDeporte" prefHeight="55.0" prefWidth="215.0" style="-fx-background-color: #84B6F4;" text="Registrar Deporte">
                            <cursor>
                               <Cursor fx:constant="HAND" />
-                           </cursor></Button>
-                        <Button fx:id="programarsesionbt" layoutX="155.0" layoutY="177.0" mnemonicParsing="false" onAction="#cambiarProgramarSesionEntrenamiento" text="Programar Sesión Entrenamiento">
+                           </cursor>
+                           <font>
+                              <Font name="Lucida Bright" size="17.0" />
+                           </font></Button>
+                        <Button fx:id="programarsesionbt" layoutX="174.0" layoutY="247.0" maxHeight="55.0" maxWidth="303.0" minHeight="55.0" minWidth="303.0" mnemonicParsing="false" onAction="#cambiarProgramarSesionEntrenamiento" prefHeight="55.0" prefWidth="303.0" style="-fx-background-color: #84B6F4;" text="Programar Sesión Entrenamiento">
                            <cursor>
                               <Cursor fx:constant="HAND" />
-                           </cursor></Button>
+                           </cursor>
+                           <font>
+                              <Font name="Lucida Bright" size="17.0" />
+                           </font></Button>
                      </children>
                   </AnchorPane>
             </content>
@@ -43,40 +55,64 @@
               <content>
                 <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
                      <children>
-                        <SplitPane dividerPositions="0.5" layoutX="5.0" layoutY="4.0" prefHeight="279.0" prefWidth="492.0">
+                        <SplitPane dividerPositions="0.5" layoutX="5.0" layoutY="4.0" prefHeight="312.0" prefWidth="641.0">
                           <items>
                             <AnchorPane maxHeight="310.0" minHeight="0.0" minWidth="0.0" prefHeight="192.0" prefWidth="242.0">
                                  <children>
-                                    <Label fx:id="asignarMiembrolb" layoutX="52.0" layoutY="14.0" text="Asignar miembro a sesión" />
-                                    <TextField fx:id="nombremiembrotxt" layoutX="47.0" layoutY="45.0" promptText="Nombre miembro">
+                                    <Label fx:id="asignarMiembrolb" layoutX="62.0" layoutY="25.0" text="Asignar miembro a sesión">
+                                       <font>
+                                          <Font size="17.0" />
+                                       </font></Label>
+                                    <TextField fx:id="nombremiembrotxt" layoutX="78.0" layoutY="75.0" promptText="Nombre miembro">
                                        <cursor>
                                           <Cursor fx:constant="TEXT" />
-                                       </cursor></TextField>
-                                    <TextField fx:id="codigosesiontxt" layoutX="47.0" layoutY="84.0" promptText="Código sesión">
+                                       </cursor>
+                                       <font>
+                                          <Font size="13.0" />
+                                       </font></TextField>
+                                    <TextField fx:id="codigosesiontxt" layoutX="78.0" layoutY="128.0" promptText="Código sesión">
                                        <cursor>
                                           <Cursor fx:constant="TEXT" />
-                                       </cursor></TextField>
-                                    <Button fx:id="aceptarmiembrobt" layoutX="93.0" layoutY="130.0" mnemonicParsing="false" onAction="#asignarMiembroSesion" text="Aceptar">
+                                       </cursor>
+                                       <font>
+                                          <Font size="13.0" />
+                                       </font></TextField>
+                                    <Button fx:id="aceptarmiembrobt" layoutX="115.0" layoutY="185.0" mnemonicParsing="false" onAction="#asignarMiembroSesion" style="-fx-background-color: #84B6F4;" text="Aceptar">
                                        <cursor>
                                           <Cursor fx:constant="HAND" />
-                                       </cursor></Button>
+                                       </cursor>
+                                       <font>
+                                          <Font name="Lucida Bright" size="17.0" />
+                                       </font></Button>
                                  </children>
                               </AnchorPane>
-                            <AnchorPane maxHeight="310.0" minHeight="0.0" minWidth="0.0" prefHeight="197.0" prefWidth="242.0">
+                            <AnchorPane maxHeight="310.0" minHeight="0.0" minWidth="0.0" prefHeight="293.0" prefWidth="281.0">
                                  <children>
-                                    <Label fx:id="asignarEntrenadorlb" layoutX="43.0" layoutY="14.0" text="Asignar entrenador a deporte" />
-                                    <TextField fx:id="nombreentrenadortxt" layoutX="47.0" layoutY="45.0" promptText="Nombre entrenador">
+                                    <Label fx:id="asignarEntrenadorlb" layoutX="47.0" layoutY="23.0" text="Asignar entrenador a deporte">
+                                       <font>
+                                          <Font size="17.0" />
+                                       </font></Label>
+                                    <TextField fx:id="nombreentrenadortxt" layoutX="78.0" layoutY="73.0" promptText="Nombre entrenador">
                                        <cursor>
                                           <Cursor fx:constant="TEXT" />
-                                       </cursor></TextField>
-                                    <TextField fx:id="nombredeportetxt" layoutX="47.0" layoutY="83.0" promptText="Nombre deporte">
+                                       </cursor>
+                                       <font>
+                                          <Font size="13.0" />
+                                       </font></TextField>
+                                    <TextField fx:id="nombredeportetxt" layoutX="77.0" layoutY="128.0" promptText="Nombre deporte">
                                        <cursor>
                                           <Cursor fx:constant="TEXT" />
-                                       </cursor></TextField>
-                                    <Button fx:id="aceptarentrenadorbt" layoutX="93.0" layoutY="130.0" mnemonicParsing="false" onAction="#asignarEntrenadorDeporte" text="Aceptar">
+                                       </cursor>
+                                       <font>
+                                          <Font size="13.0" />
+                                       </font></TextField>
+                                    <Button fx:id="aceptarentrenadorbt" layoutX="115.0" layoutY="183.0" mnemonicParsing="false" onAction="#asignarEntrenadorDeporte" style="-fx-background-color: #84B6F4;" text="Aceptar">
                                        <cursor>
                                           <Cursor fx:constant="HAND" />
-                                       </cursor></Button>
+                                       </cursor>
+                                       <font>
+                                          <Font name="Lucida Bright" size="17.0" />
+                                       </font></Button>
                                  </children>
                               </AnchorPane>
                           </items>
@@ -87,23 +123,32 @@
             </Tab>
             <Tab fx:id="consultatab" text="Consulta">
               <content>
-                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="311.0" prefWidth="613.0">
                      <children>
-                        <ScrollPane layoutX="88.0" layoutY="80.0" prefHeight="104.0" prefWidth="324.0">
+                        <ScrollPane layoutX="120.0" layoutY="109.0" prefHeight="104.0" prefWidth="412.0">
                            <content>
-                              <Label fx:id="infolb" alignment="TOP_LEFT" prefWidth="323.0" />
+                              <Label fx:id="infolb" alignment="TOP_LEFT" prefWidth="323.0">
+                                 <font>
+                                    <Font size="15.0" />
+                                 </font></Label>
                            </content>
                         </ScrollPane>
-                        <Label fx:id="consultalb" layoutX="58.0" layoutY="21.0" text="Ingrese el código de la sesión de entrenamiento para verificar su estado." />
-                        <TextField fx:id="codigotxt" layoutX="175.0" layoutY="45.0" promptText="Código Sesión">
+                        <Label fx:id="consultalb" alignment="TOP_CENTER" contentDisplay="CENTER" layoutX="85.0" layoutY="24.0" text="Ingrese el código de la sesión de entrenamiento para verificar su estado." textOverrun="CENTER_ELLIPSIS">
+                           <font>
+                              <Font size="15.0" />
+                           </font></Label>
+                        <TextField fx:id="codigotxt" layoutX="250.0" layoutY="59.0" promptText="Código Sesión">
                            <cursor>
                               <Cursor fx:constant="TEXT" />
                            </cursor>
                         </TextField>
-                        <Button fx:id="consultarbt" layoutX="210.0" layoutY="193.0" mnemonicParsing="false" onAction="#consultarEstadoSesionEntrenamiento" text="Consultar">
+                        <Button fx:id="consultarbt" layoutX="273.0" layoutY="235.0" mnemonicParsing="false" onAction="#consultarEstadoSesionEntrenamiento" style="-fx-background-color: #84B6F4;" text="Consultar">
                            <cursor>
                               <Cursor fx:constant="HAND" />
                            </cursor>
+                           <font>
+                              <Font name="Lucida Bright" size="17.0" />
+                           </font>
                         </Button>
                      </children>
                   </AnchorPane>
@@ -113,8 +158,20 @@
               <content>
                 <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
                      <children>
-                        <Button fx:id="listaPersonasbt" layoutX="70.0" layoutY="102.0" mnemonicParsing="false" onAction="#GenerarListaPersonas" text="Generar lista de personas" />
-                        <Button fx:id="listaSesionesbt" layoutX="261.0" layoutY="102.0" mnemonicParsing="false" onAction="#GenerarListaSesiones" text="Generar lista de sesiones" />
+                        <Button fx:id="listaPersonasbt" layoutX="56.0" layoutY="144.0" mnemonicParsing="false" onAction="#GenerarListaPersonas" style="-fx-background-color: #84B6F4;" text="Generar lista de personas">
+                           <font>
+                              <Font name="Lucida Bright" size="18.0" />
+                           </font>
+                           <cursor>
+                              <Cursor fx:constant="HAND" />
+                           </cursor></Button>
+                        <Button fx:id="listaSesionesbt" layoutX="347.0" layoutY="144.0" mnemonicParsing="false" onAction="#GenerarListaSesiones" style="-fx-background-color: #84B6F4;" text="Generar lista de sesiones">
+                           <font>
+                              <Font name="Lucida Bright" size="18.0" />
+                           </font>
+                           <cursor>
+                              <Cursor fx:constant="HAND" />
+                           </cursor></Button>
                      </children>
                   </AnchorPane>
               </content>
@@ -123,23 +180,86 @@
               <content>
                 <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
                      <children>
-                        <Button fx:id="serializarListaMiembrosbt" layoutX="44.0" layoutY="77.0" mnemonicParsing="false" onAction="#SerializarListaMiembros" text="Serializar lista de miembros " />
-                        <Button fx:id="serializarListaEntrenadoresbt" layoutX="279.0" layoutY="77.0" mnemonicParsing="false" onAction="#SerializarListaPersonas" text="Serializar lista de entrenadores " textFill="#1a1817" />
-                        <Button fx:id="serializarListaSesionesbt" layoutX="159.0" layoutY="145.0" mnemonicParsing="false" onAction="#SerializarListaSesiones" text="Serializar lista de sesiones " />
+                        <SplitPane dividerPositions="0.4979919678714859" layoutX="6.0" layoutY="6.0" prefHeight="311.0" prefWidth="637.0">
+                          <items>
+                            <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
+                                 <children>
+                                    <Button fx:id="serializarListaMiembrosDatbt" alignment="TOP_CENTER" layoutX="27.0" layoutY="76.0" mnemonicParsing="false" onAction="#SerializarListaMiembrosADat" style="-fx-background-color: #84B6F4;" text="Serializar lista de miembros ">
+                                       <font>
+                                          <Font name="Lucida Bright" size="17.0" />
+                                       </font>
+                                       <cursor>
+                                          <Cursor fx:constant="HAND" />
+                                       </cursor>
+                                    </Button>
+                                    <Button fx:id="serializarListaEntrenadoresDatbt" alignment="CENTER" layoutX="35.0" layoutY="138.0" mnemonicParsing="false" onAction="#SerializarListaPersonasADat" style="-fx-background-color: #84B6F4;" text="Serializar lista de personas" textFill="#1a1817">
+                                       <font>
+                                          <Font name="Lucida Bright" size="17.0" />
+                                       </font>
+                                       <cursor>
+                                          <Cursor fx:constant="HAND" />
+                                       </cursor>
+                                    </Button>
+                                    <Button fx:id="serializarListaSesionesDatbt" alignment="BOTTOM_CENTER" layoutX="34.0" layoutY="200.0" mnemonicParsing="false" onAction="#SerializarListaSesionesADat" style="-fx-background-color: #84B6F4;" text="Serializar lista de sesiones ">
+                                       <font>
+                                          <Font name="Lucida Bright" size="17.0" />
+                                       </font>
+                                       <cursor>
+                                          <Cursor fx:constant="HAND" />
+                                       </cursor>
+                                    </Button>
+                                    <Label fx:id="serializardatlb" layoutX="97.0" layoutY="23.0" text="Serializador .dat">
+                                       <font>
+                                          <Font size="17.0" />
+                                       </font>
+                                    </Label>
+                                 </children>
+                              </AnchorPane>
+                            <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
+                                 <children>
+                                    <Label fx:id="serializarxmllb" layoutX="98.0" layoutY="24.0" text="Serializador XML">
+                                       <font>
+                                          <Font size="17.0" />
+                                       </font>
+                                    </Label>
+                                    <Button fx:id="serializarListaEntrenadoresXmlbt" layoutX="36.0" layoutY="101.0" mnemonicParsing="false" onAction="#SerializarListaPersonasAXML" style="-fx-background-color: #84B6F4;" text="Serializar lista de personas">
+                                       <font>
+                                          <Font name="Lucida Bright" size="17.0" />
+                                       </font>
+                                       <cursor>
+                                          <Cursor fx:constant="HAND" />
+                                       </cursor>
+                                    </Button>
+                                    <Button fx:id="serializarListaSesionesXmlbt" layoutX="41.0" layoutY="169.0" mnemonicParsing="false" onAction="#SerializarListaSesionesAXML" style="-fx-background-color: #84B6F4;" text="Serializar lista de sesiones">
+                                       <font>
+                                          <Font name="Lucida Bright" size="17.0" />
+                                       </font>
+                                       <cursor>
+                                          <Cursor fx:constant="HAND" />
+                                       </cursor>
+                                    </Button>
+                                    <Button fx:id="serializarclubbt" layoutX="135.0" layoutY="234.0" mnemonicParsing="false" onAction="#SerializarClubDeportivoAXML" text="serializar club" />
+                                 </children>
+                              </AnchorPane>
+                          </items>
+                        </SplitPane>
                      </children>
                   </AnchorPane>
               </content>
             </Tab>
         </tabs>
       </TabPane>
-      <Label fx:id="titulolb" layoutX="159.0" layoutY="7.0" text="Página Principal">
+      <Label fx:id="titulolb" alignment="TOP_CENTER" contentDisplay="CENTER" layoutX="193.0" layoutY="6.0" text="Página Principal" textAlignment="CENTER" textFill="#005187" textOverrun="CENTER_ELLIPSIS">
          <font>
-            <Font name="Cambria Bold Italic" size="24.0" />
+            <Font name="Cambria Bold Italic" size="35.0" />
          </font>
       </Label>
-      <Button fx:id="volverbt" layoutX="218.0" layoutY="304.0" mnemonicParsing="false" onAction="#cambiarLogin" text="Volver">
+      <Button fx:id="volverbt" layoutX="282.0" layoutY="419.0" mnemonicParsing="false" onAction="#cambiarLogin" prefHeight="32.0" prefWidth="86.0" style="-fx-background-color: #4D82BC;" text="Volver" textFill="WHITE">
          <cursor>
             <Cursor fx:constant="HAND" />
-         </cursor></Button>
+         </cursor>
+         <font>
+            <Font name="Lucida Bright" size="16.0" />
+         </font></Button>
    </children>
 </AnchorPane>
